@@ -1,0 +1,3 @@
+name: esdb-ec2-pulumi
+runtime: nodejs
+description: A minimal AWS TypeScript Pulumi program
